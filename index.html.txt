@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>TravelBuddie</title>
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div class="navbar">
+		<div class="logo">
+			<h1>Wander Buddies</h1>
+		</div>
+		<div class="menu">
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Services</a></li>
+				<li><a href="#">Profiles</a></li>
+				<li><a href="#">Contact</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Reviews</a></li>
+			</ul>
+		</div>
+		<div class="signup">
+			<a href="#">Register</a>
+		</div>
+	</div>
+	<div class="body">
+		<div class="heading">
+			<h1>Discover,Connect,
+				Explore!</h1>
+			<br>
+			<p>Meeting like-minded travelers has never been this convenient. </p>
+			<br>
+			<br>
+			<a href="#">Learn More</a>
+		</div>
+		<div class="tours">
+			<div class="places">
+				<h2>Rayan</h2>
+				<img src="img1.jpg" style="width: 300px; height: 250px; border-radius: 12px;">
+				<br>
+				<br>
+				<a href="#">Connect</a>
+			</div>
+			<div class="places">
+				<h2>Lissa</h2>
+				<img src="img2.jpg" style="width: 300px; height: 250px; border-radius: 12px;">
+				<br>
+				<br>
+				<a href="#">connect</a>
+			</div>
+			<div class="places">
+				<h2>Selena</h2>
+				<img src="img3.jpg" style="width: 300px; height: 250px; border-radius: 12px;">
+				<br>
+				<br>
+				<a href="#">connect</a>
+			</div>
+		</div>
+	</div>
+	<div class="footer">
+		<a href="#">Copyright</a>
+		<a href="#">Terms and Conditions</a>
+		<a href="#">Privacy Policy</a>
+		<a href="#">Cookies</a>
+		<a href="#">Complaints</a>
+	</div>
+</body>
+</html>
